@@ -1,0 +1,61 @@
+
+;   @ - The starting position of the player.
+;   $ - The starting position for a pushable heart.
+;   . - A goal where a heart needs to be pushed.
+;   + - Player & goal
+;   * - heart & goal
+;  (space) - an empty open space.
+;   # - A wall.
+;
+
+; Start Level 1
+
+#########
+#   @   #
+#   $   #
+#       #
+#   .   #
+#########
+
+; Level 2
+
+#########
+##      #
+#   @ $ #
+#   .   #
+#      ##
+#########
+
+
+; Level 3
+ ########
+##      #
+#   .   #
+#   $   #
+# .$@$. #
+####$   #
+   #.   #
+   #   ##
+   #####
+
+; Level 4
+
+ ########
+##  @   #
+# . . $ #
+#       #
+#    $  #
+####    #
+   #    #
+   #   ##
+   #####
+
+; Level 5
+
+#########
+#       #
+#   $   #
+#  .@.  #
+#   $   #
+#       #
+#########
